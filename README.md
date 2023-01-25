@@ -19,7 +19,7 @@ You can be almost sure it's Jenkins.
 
 This application is running on 8080 as a default port and Jetty is an internal web container that Jenkins is using to has the ability to serve HTTPS as one of the methods of authentication.
 
-Access http://<IP>:8080 and check if Jenkins login panel is avaliable.
+Access `http://<IP_address>:8080` and check if Jenkins login panel is avaliable.
 If yes, then go to the next step `Login`.
 
 
